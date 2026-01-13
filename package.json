@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.0.1",
     "semantic-ui": "^2.4.2",
     "semantic-ui-react": "^0.88.0"
@@ -32,6 +32,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^6.2.2"
+    "eslint": "^9.39.1"
   }
 }
